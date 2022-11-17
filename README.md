@@ -1,2 +1,1 @@
-# PROYECTO-32
-TIRO CON ARCO ETAPA 5
+# Plantilla del proyecto 26
